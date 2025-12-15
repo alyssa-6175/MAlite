@@ -3,6 +3,14 @@ h1 {
     text-align: center;
 }
 
+.header {
+    font-family: "Optima", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 34px;
+    margin: 10px;
+}
+
 .index-header {
     background-color: #464bb2;
     color: white;
@@ -122,7 +130,6 @@ h1 {
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding: 10px;
     border-radius: 14px;
     transition: opacity 0.3s ease;
     font-size: 18px;
